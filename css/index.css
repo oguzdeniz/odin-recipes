@@ -1,0 +1,13 @@
+body {
+  background: black;
+  color: white;
+}
+
+a {
+  color: lightblue;
+  text-decoration: none;
+}
+
+a:visited {
+  color: lightcoral;
+}
